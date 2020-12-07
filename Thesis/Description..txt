@@ -1,0 +1,5 @@
+Includes a Thesis on A Survey of Healthcare Applications Based on Google Cloud Platform Service Providers.
+Indepth description of various google and iOS applications.
+Includes a brief summary of Wireless Sensor Networks (WSN) and Cloud Platform.
+Includes a feasible solution to the various privacy and security attacks on these applications.
+Achieved a Distinction.
